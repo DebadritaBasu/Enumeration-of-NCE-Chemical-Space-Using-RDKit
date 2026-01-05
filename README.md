@@ -1,4 +1,3 @@
-# Enumeration-of-NCE-Chemical-Space-Using-RDKit
 # Enumeration of NCE Chemical Space Using RDKit
 
 This project provides a Python script to enumerate New Chemical Entities (NCEs) by attaching diverse substituents to a fixed warhead using RDKit. The workflow systematically explores chemical space by combining alkyl fragments, linkers, functional groups, aromatics, and heterocycles, generating up to a user-defined number of molecules.
