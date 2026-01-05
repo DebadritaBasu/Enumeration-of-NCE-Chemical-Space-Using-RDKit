@@ -29,7 +29,7 @@ conda install -c conda-forge rdkit
 Clone the repository:
 
 git clone <https://github.com/DebadritaBasu/Enumeration-of-NCE-Chemical-Space-Using-RDKit.git>
-cd <Enumeration-of-NCE-Chemical-Space-Using-RDKit>
+cd Enumeration-of-NCE-Chemical-Space-Using-RDKit
 
 ## Usage
 
